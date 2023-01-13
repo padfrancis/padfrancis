@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java, Phyton
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me
+- 📫 How to reach me https://github.com/emotiCus12
 
 <!---
 emotiCus12/emotiCus12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
